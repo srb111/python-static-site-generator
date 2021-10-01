@@ -1,3 +1,1 @@
-import pathlib.path
-
-class Site:
+import path.pathlib
